@@ -26,5 +26,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+<br>
+<br>
+
+#### More Info
+<p>
+  https://woomae.notion.site/Hyoung-Geun-Cho-e919ba156bca48adb941f609b009450b?pvs=4
+</p>
   
 </div>

@@ -29,10 +29,10 @@
 <br>
 <br>
 
-#### More Info
-<p>
+<h4>
   <a href="https://woomae.notion.site/Hyoung-Geun-Cho-e919ba156bca48adb941f609b009450b?pvs=4">
-    Portfolio
+    More Info
   </a>
-</p>
+</h4>
+
 </div>

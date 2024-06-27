@@ -1,7 +1,7 @@
 <div align="center">
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=2000&pause=1000&color=F7983D&background=FFEB4700&repeat=false&random=false&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A1%B0%ED%98%95%EA%B7%BC%EC%9E%85%EB%8B%88%EB%8B%A4!++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=2000&pause=1000&color=000000&repeat=false&random=false&width=435&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A1%B0%ED%98%95%EA%B7%BC+%EC%9E%85%EB%8B%88%EB%8B%A4!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <br><br>
 
   ### Skills

@@ -31,7 +31,8 @@
 
 #### More Info
 <p>
-  https://woomae.notion.site/Hyoung-Geun-Cho-e919ba156bca48adb941f609b009450b?pvs=4
+  <a href="https://woomae.notion.site/Hyoung-Geun-Cho-e919ba156bca48adb941f609b009450b?pvs=4">
+    Portfolio
+  </a>
 </p>
-  
 </div>
